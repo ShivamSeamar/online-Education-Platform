@@ -6,7 +6,7 @@
 
 Youdemi is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href="https://shivamseamar.github.io/youdemi/"><strong>➥ Live Demo</strong></a>
+<a href="https://shivamseamar.github.io/online-Education-Platform/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
